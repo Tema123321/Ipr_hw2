@@ -21,3 +21,7 @@ coverage run -m pytest tests
 coverage html
 open htmlcov/index.html
 ```
+
+## Посмотреть coverage
+
+https://tema123321.github.io/Ipr_hw2/
